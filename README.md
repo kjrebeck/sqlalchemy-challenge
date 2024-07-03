@@ -1,5 +1,5 @@
 
-``markdown
+``
 # Weather Data API using Flask and SQLAlchemy
 
 ## Project Overview
