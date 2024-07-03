@@ -1,5 +1,5 @@
 
-``
+``markdown
 # Weather Data API using Flask and SQLAlchemy
 
 ## Project Overview
@@ -35,7 +35,7 @@ This project aims to perform a climate analysis on data from 9 weather stations 
 
 ## Dependencies
 
-1. Ensure Python installed.
+1. Ensure Python 3.x is installed.
 2. Install the required Python libraries using pip:
 
     ```sh
