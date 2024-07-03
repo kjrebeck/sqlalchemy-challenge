@@ -1,5 +1,4 @@
 
-``markdown
 # Weather Data API using Flask and SQLAlchemy
 
 ## Project Overview
@@ -16,7 +15,7 @@ This project aims to perform a climate analysis on data from 9 weather stations 
     - Develop endpoints to provide precipitation data, station data, temperature observations, and statistical gitdata based on date ranges.
     
     By following these instructions, you will set up the project, run the analysis, and deploy the API successfully.
-``
+
 # Setup Instructions
 
 ## Cloning the Repository
@@ -76,7 +75,7 @@ This project aims to perform a climate analysis on data from 9 weather stations 
 
 3. The API will be accessible at `http://localhost:5000/`.
 
-``
+
 ## API Endpoints
 
 ### GET /api/v1.0/precipitation
